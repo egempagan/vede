@@ -4804,7 +4804,7 @@
 ██▄  ▄██ ▄▄▄▄   ▄▄▄  ▄▄  ▄▄  ▄████  █████▄ █████▄ ▄▄ ▄▄ ██  ██ ██  ██ █████▄ 
 ██ ▀▀ ██ ██▄█▀ ██▀██ ███▄██ ██  ▄▄▄ ██▄▄█▀ ██▄▄█▀ ▀█▄█▀ ██████ ██  ██ ██▄▄██ 
 ██    ██ ██    ██▀██ ██ ▀██  ▀███▀  ██     ██     ██ ██ ██  ██ ▀████▀ ██▄▄█▀ ]]
-loadstring(game:HttpGet("https://raw.githubusercontent.com/bapakkau5/takkerjekerje/refs/heads/main/tuololo.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cryptogpp/pedenih/refs/heads/main/inisourcevede.lua"))()
 --[[
 ██▄  ▄██ ▄▄▄▄   ▄▄▄  ▄▄  ▄▄  ▄████  █████▄ █████▄ ▄▄ ▄▄ ██  ██ ██  ██ █████▄ 
 ██ ▀▀ ██ ██▄█▀ ██▀██ ███▄██ ██  ▄▄▄ ██▄▄█▀ ██▄▄█▀ ▀█▄█▀ ██████ ██  ██ ██▄▄██ 
