@@ -22,7 +22,7 @@ export default function handler(req, res) {
   try {
     const fs = require('fs');
     const path = require('path');
-    const scriptPath = path.join(process.cwd(), 'api', 'laserpiwpiw');
+    const scriptPath = path.join(process.cwd(), 'api', 'violencedistrictnew');
     
     if (!fs.existsSync(scriptPath)) {
       return res.status(404).send('Script not found');
